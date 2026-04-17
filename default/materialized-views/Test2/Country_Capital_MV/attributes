@@ -1,0 +1,10 @@
+#Fri Apr 17 16:25:11 GMT 2026
+language=sql
+incremental=false
+schemaName=Test2
+incrementalCol=
+incrementalMethod=0
+isValidated=true
+mvName=Country_Capital_MV
+tenantId=9
+onlyAllowVerifiedViews=false
